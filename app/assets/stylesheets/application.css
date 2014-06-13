@@ -19,3 +19,5 @@ body {
 .alert {
 	margin-top: 10px;
 }
+
+@import "bootstrap.css";
